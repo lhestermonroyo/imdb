@@ -7,7 +7,7 @@ import DarkModeSwitch from './DarkModeSwitch';
 
 export default function Header() {
   return (
-    <div className="flex justify-between px-2 py-4 max-w-6xl sm:mx-auto items-center">
+    <div className="flex justify-between px-2 py-6 max-w-6xl sm:mx-auto items-center">
       <div className="flex items-center space-x-4">
         <Link href="/">
           <h2 className="text-2xl">
